@@ -24,6 +24,7 @@ private EditText editTextNumber;
         textView = findViewById(R.id.textView);
         textView = findViewById(R.id.textView2);
         editTextNumber = findViewById(R.id.editTextNumber);
+        Toast.makeText(this, "Welcome to Unit Converter App", Toast.LENGTH_SHORT).show();
 //        button.setOnClickListener(new View.OnClickListener() {
 //            @Override
 //            public void onClick(View view) {
